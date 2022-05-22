@@ -1,19 +1,17 @@
 {
-    "id": "E3748555",
-    "path": "~/GitHub/kz2/content/about.md",
-    "project_path": "content/about.md",
+    "id": "A5B7FA24",
+    "path": "~/GitHub/kz2/content/post/2016-12-30-hello-markdown/index.md",
+    "project_path": "content/post/2016-12-30-hello-markdown/index.md",
     "type": "markdown",
-    "hash": "2700839508",
+    "hash": "2812446288",
     "contents": "",
     "dirty": false,
-    "created": 1653121981539.0,
+    "created": 1653124905515.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 11,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "5,257",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1653119085,
